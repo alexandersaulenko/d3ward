@@ -73,3 +73,43 @@
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
+#Twitter
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+#Facebook
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+#Linkedin
+0.0.0.0 ads.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+#Pinterest
+0.0.0.0 ads.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 widgets.pinterest.com
+#Reddit
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
+#Youtube
+0.0.0.0 ads.youtube.com
+#TikTok
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 log.byteoversea.com
+#Yahoo
+0.0.0.0 ads.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 adtech.yahooinc.com
