@@ -121,7 +121,7 @@
 #Realme
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
-0.0.0.0 iot-logser.realme.com
+0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 #Oppo
 0.0.0.0 adsfs.oppomobile.com
@@ -131,3 +131,9 @@
 #Oneplus
 0.0.0.0 click.oneplus.cn
 0.0.0.0 open.oneplus.net
+#Samsung
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics-api.samsunghealthcn.com
