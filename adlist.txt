@@ -113,3 +113,21 @@
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 adtech.yahooinc.com
+#Unity
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+#Realme
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+#Oppo
+0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+#Oneplus
+0.0.0.0 click.oneplus.cn
+0.0.0.0 open.oneplus.net
